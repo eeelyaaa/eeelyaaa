@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eeelyaaa
-- 👀 I’m interested in ... Everything JavaScript! Working with Vue
-- 🌱 I’m currently learning ... Python! Specifically writing automated tests with Appium
+- 👀 I’m interested in ... Ruby, Python, Swift
+- 🌱 I’m currently learning ... Python! Specifically writing automated tests with Selenium
 - 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/elya-m-115325133/
 
 <!---
