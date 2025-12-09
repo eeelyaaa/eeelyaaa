@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eeelyaaa
-- 👀 I’m interested in ... Ruby, Python, Swift
-- 🌱 I’m currently learning ... Python! Specifically writing automated tests with Selenium
-- 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/elya-m-115325133/
+- 👀 I’m interested in ... JavaScript, Playwright, all things AI
+- 🌱 I’m currently learning ... IOS Development! Currently working on an app
+- 📫 How to reach me ... LinkedIn! https://www.linkedin.com/in/elyamurza/
 
 <!---
 eeelyaaa/eeelyaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
